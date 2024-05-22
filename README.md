@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ## data source
 
 -- raw data:
+      
       from        to        distance    fuel     cost
   1.  edmonton    calgary     300         78      120
   2.  calgary     watertown   300         80      130
