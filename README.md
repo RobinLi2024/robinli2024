@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 -- raw data:
       
-      from        to        distance    fuel     cost
-  1.  edmonton    calgary     300         78      120
-  2.  calgary     watertown   300         80      130
+------from        to        distance    fuel     cost
+1.  edmonton    calgary     300         78      120
+2.  calgary     watertown   300         80      130
 
 ## calculate the fuel efficency
 
