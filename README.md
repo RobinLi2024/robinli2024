@@ -1,5 +1,5 @@
 ### Hi there 👋
-![motorhome 3](https://github.com/RobinLi2024/robinli2024/assets/170358474/8475902e-e754-4ce2-9a2e-d83f487b3d5c)
+<kbd>![motorhome 3](https://github.com/RobinLi2024/robinli2024/assets/170358474/8475902e-e754-4ce2-9a2e-d83f487b3d5c)</kbd>
 
 <!--
 **RobinLi2024/robinli2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ## data source
 
+- raw data:
       from        to        distance    fuel     cost
   1.  edmonton    calgary     300         78      120
   2.  calgary     watertown   300         80      130
