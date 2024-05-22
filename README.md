@@ -26,16 +26,16 @@ Here are some ideas to get you started:
 
 -- raw data:
       
-Date Time store location distance    price/litre quantity   amount
-2022/09/12 18:48:18 shell 17203 hiller rd sw edmonton    $1.369   29.277      $40.08
-2022/09/12 18:53:20 shell  17203 hiller rd sw edmonton   $1.369   27.200      $37.24
-2022/08/23 4:15 pm pat's waterton park n/a  n/a 17.10
-2022/08/23 14:40:47 pat's waterton park244 mountainview rd waterton park n/a n/a 191.77
-2022/08/22 13:20:40 costco 99 heritage gate se calgary $1.359 53.799 $73.11
-2022/08/22 13:42:19 costco 99 heritage gate se calgary $1.359 43.503 $59.12
-2022/08/24 11:55:57 shell 4312 1st street claresholm $1.399 28.592 $40.00
-2022/08/25 11:35:06 costco 11588 sarcee trail nw calgary $1.349 54.136 $73.03
-2022/8/24 10:45:55 shell 1330 wentworth ave pincher creek $1.479 14.467 $21.40
+--Date Time store location distance    price/litre quantity   amount
+--2022/09/12 18:48:18 shell 17203 hiller rd sw edmonton    $1.369   29.277      $40.08
+--2022/09/12 18:53:20 shell  17203 hiller rd sw edmonton   $1.369   27.200      $37.24
+--2022/08/23 4:15 pm pat's waterton park n/a  n/a 17.10
+--2022/08/23 14:40:47 pat's waterton park244 mountainview rd waterton park n/a n/a 191.77
+--2022/08/22 13:20:40 costco 99 heritage gate se calgary $1.359 53.799 $73.11
+--2022/08/22 13:42:19 costco 99 heritage gate se calgary $1.359 43.503 $59.12
+--2022/08/24 11:55:57 shell 4312 1st street claresholm $1.399 28.592 $40.00
+--2022/08/25 11:35:06 costco 11588 sarcee trail nw calgary $1.349 54.136 $73.03
+--2022/8/24 10:45:55 shell 1330 wentworth ave pincher creek $1.479 14.467 $21.40
 
 
 
