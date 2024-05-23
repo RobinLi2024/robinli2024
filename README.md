@@ -55,3 +55,4 @@ formular:
 
   <kbd>![image](https://github.com/RobinLi2024/robinli2024/assets/170358474/f0a22958-9f4c-4298-8d2e-ee42594ed808)</kbd>
 
+💥notes: The milage should be better, as I did not includes many small trips. Espcially the one in Waterton, where I drove this big guy into the mountain looking for the Cameron Fall. I gave up after drove for about half hour in afraid of not having enough fuel. It turns out that the Cameron Fall is inside Waterton town! The road into the mountain has a lot of hills up and down. At one of the hill I almost hit another car, as I did not slow down when I reach the top the hill...
