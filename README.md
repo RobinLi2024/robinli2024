@@ -49,4 +49,5 @@ Date Time store location distance    price/litre quantity   amount
 **Step 2: Data analytics.**
   formular:
     total of fuel / total of distance
-  
+
+  ```29.93```L per 100 KM
