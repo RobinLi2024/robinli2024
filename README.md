@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 Date Time store location distance    price/litre quantity   amount
 1.  2022/09/12 18:48:18 shell 17203 hiller rd sw edmonton    $1.369   29.277      $40.08
 2.  2022/09/12 18:53:20 shell  17203 hiller rd sw edmonton   $1.369   27.200      $37.24
-3.  2022/08/23 4:15 pm pat's waterton park n/a  n/a 17.10
-4.  2022/08/23 14:40:47 pat's waterton park244 mountainview rd waterton park n/a n/a 191.77
+3.  2022/08/23 4:15 pm pat's waterton park n/a  n/a $17.10
+4.  2022/08/23 14:40:47 pat's waterton park 244 mountainview rd waterton park n/a n/a $191.77
 5.  2022/08/22 13:20:40 costco 99 heritage gate se calgary $1.359 53.799 $73.11
 6.  2022/08/22 13:42:19 costco 99 heritage gate se calgary $1.359 43.503 $59.12
 7.  2022/08/24 11:55:57 shell 4312 1st street claresholm $1.399 28.592 $40.00
@@ -42,6 +42,8 @@ Date Time store location distance    price/litre quantity   amount
 ## calculate the fuel efficency
 
 **Step 1: Data cleaning.**
+1. Converted date time columns into datetime format. Sort the data by date.
+2. fill the distance manually (trip starting from Edmonton)
 
 **Step 2: Data analytics.**
   formular:
