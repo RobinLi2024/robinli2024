@@ -47,7 +47,8 @@ Date Time store location distance    price/litre quantity   amount
 <kbd>![image](https://github.com/RobinLi2024/robinli2024/assets/170358474/5d3c3745-9c54-4f39-bb9c-d537c75cf422)</kbd>
 
 **Step 2: Data analytics.**
-  formular:
+
+formular:
     total of fuel / total of distance
 
   ```29.93```L per 100 KM
