@@ -41,9 +41,9 @@ Date Time store location distance    price/litre quantity   amount
 
 ## calculate the fuel efficency
 
-**Step 1: Data cleaning .**
+**Step 1: Data cleaning.**
 
-**Step 2: Data analytics .**
+**Step 2: Data analytics.**
   formular:
     total of fuel / total of distance
   
