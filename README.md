@@ -44,6 +44,7 @@ Date Time store location distance    price/litre quantity   amount
 **Step 1: Data cleaning.**
 1. Converted date time columns into datetime format. Sort the data by date.
 2. fill the distance manually (trip starting from Edmonton)
+<kbd>![image](https://github.com/RobinLi2024/robinli2024/assets/170358474/5d3c3745-9c54-4f39-bb9c-d537c75cf422)</kbd>
 
 **Step 2: Data analytics.**
   formular:
