@@ -52,3 +52,6 @@ formular:
     total of fuel / total of distance
 
   ```29.93```L per 100 KM
+
+  <kbd>![image](https://github.com/RobinLi2024/robinli2024/assets/170358474/f0a22958-9f4c-4298-8d2e-ee42594ed808)</kbd>
+
